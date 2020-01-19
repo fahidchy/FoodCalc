@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "449526082296",
+    "firebase_url": "https://foodcalc-f05af.firebaseio.com",
+    "project_id": "foodcalc-f05af",
+    "storage_bucket": "foodcalc-f05af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449526082296:android:1c25ab4040bb43e68a290d",
+        "android_client_info": {
+          "package_name": "com.example.foodcalc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449526082296-d9voevuef238eb12oo5fvsuuqpsmgq92.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foodcalc",
+            "certificate_hash": "ceb6cbe8176d9fd0061b2a888c038b3c4e09baac"
+          }
+        },
+        {
+          "client_id": "449526082296-luqkfnefrgodjupi9lekhpc9nbgji5u8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwW2OMDMES_EO7nxZWGD_lfepj9b7ivDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449526082296-luqkfnefrgodjupi9lekhpc9nbgji5u8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
