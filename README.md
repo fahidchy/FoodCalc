@@ -1,12 +1,4 @@
-Good idea — that makes your GitHub look more complete and professional.
-
-Here’s an updated version with a clean **🎥 Video Walkthrough** section added in the right place.
-
-You can paste this into your `README.md`:
-
----
-
-# FoodCalc 📊🍎
+## FoodCalc 📊🍎
 
 **Android Calorie & Weight Tracking App**
 
@@ -25,9 +17,8 @@ A short demo showcasing:
 * CSV export to Google Drive
 
 👉 **Watch here:**
-[YouTube Demo Link](https://your-video-link-here.com)
+https://github.com/user-attachments/assets/b3e27004-41e7-4ab8-981f-269b097d6892
 
-*(You can also upload a `.mp4` directly to the repo or embed a GIF preview below.)*
 
 ---
 
@@ -35,11 +26,13 @@ A short demo showcasing:
 
 | Profile Setup      | Calorie Dashboard  |
 | ------------------ | ------------------ |
-| *(Add image here)* | *(Add image here)* |
+| ![mpv-shot0001](https://github.com/user-attachments/assets/5fa4f440-79ae-4ab4-b6df-4562be1d0cb9) | ![mpv-shot0004](https://github.com/user-attachments/assets/64570e34-3e00-44b4-a66a-c5f4521262bb)
+ |
 
 | Weight Progress    | Add Food Item      |
 | ------------------ | ------------------ |
-| *(Add image here)* | *(Add image here)* |
+| ![mpv-shot0006](https://github.com/user-attachments/assets/3eea482b-b5b2-47be-a187-e8996c27b7d3) | ![mpv-shot0003](https://github.com/user-attachments/assets/1a0ef951-6a54-4ef8-8783-f0a800bbfd2b)
+  |
 
 ---
 
@@ -80,9 +73,9 @@ Custom notifications for:
 
 ## 🛠 Tech Stack
 
-* **Language:** Kotlin / Java
-* **Architecture:** MVVM
-* **Database:** Room / SQLite
+* **Language:** Java
+* **Architecture:** MVC
+* **Database:** SQLite
 * **Charts:** MPAndroidChart
 * **Notifications:** AlarmManager / WorkManager
 * **Cloud Integration:** Google Drive API
@@ -96,12 +89,6 @@ git clone https://github.com/yourusername/foodcalc.git
 ```
 
 Open in **Android Studio** and run on an emulator or Android device.
-
----
-
-## 📄 License
-
-MIT License
 
 ---
 
