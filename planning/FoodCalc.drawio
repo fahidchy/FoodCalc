@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.3.8" pages="3">
-  <diagram name="Page-1" id="6grtclvGjEMJoiR3oXYB">
-    <mxGraphModel dx="1603" dy="2212" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram name="ClassDiagram" id="6grtclvGjEMJoiR3oXYB">
+    <mxGraphModel dx="2070" dy="1715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -170,8 +170,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="Wk2-ri6WaEtLhdpcAHjG" name="Page-2">
-    <mxGraphModel dx="452" dy="667" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram id="Wk2-ri6WaEtLhdpcAHjG" name="UseCase">
+    <mxGraphModel dx="1220" dy="615" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -259,8 +259,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="vZGEo3IbR_7L0B4433dk" name="Page-3">
-    <mxGraphModel dx="452" dy="667" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram id="vZGEo3IbR_7L0B4433dk" name="SetAlerts">
+    <mxGraphModel dx="1220" dy="615" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
